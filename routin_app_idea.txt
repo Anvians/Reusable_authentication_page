@@ -1,0 +1,7 @@
+1.  First i have to create a navbar
+
+
+2.  Here on home page there is a full body man, where user can upload his face and 
+    the face of that body will be replace by the user face 
+    I will implement this in Machine Learning.
+    For this i will have to learn GANs and VAE so it will take time.
